@@ -1,0 +1,1 @@
+# SMTP-serversmtp.ionos.comSecurity-TypeTLS-Accept-all-certificates-Port587Login-Requires-Checkbox-Us
